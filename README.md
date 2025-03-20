@@ -49,8 +49,6 @@
             padding: 10px;
             background-color: #333;
             color: white;
-            <!-- position: fixed; -->
-            <!-- width: 100%; -->
             bottom: 0;
         }
     </style>
